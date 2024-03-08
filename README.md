@@ -22,3 +22,7 @@ Lembre-se de descomentar a parte do código que quer testar. Caso queira testar,
 ### Execute o Código: ###
 
 $node teste.js
+
+## Considerações Finais ##
+
+Quero expressar minha gratidão pela oportunidade de participar do teste técnico. Foi uma experiência interessante, onde pude aplicar minhas habilidades e conhecimentos, e também me diverti resolvendo as questões por mais simples que fossem. Estou ansioso para contribuir positivamente para a equipe e me desenvolver. Independentemente do resultado, obrigado pela consideração e pela oportunidade.
